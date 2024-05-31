@@ -23,6 +23,7 @@ ScalaTaskManager is a powerful and flexible task management application built wi
 
 <img width="1910" alt="Screenshot 2024-05-31 at 1 43 23 PM" src="https://github.com/shuddha2021/ScalaTaskManager/assets/81951239/3124d240-a165-458a-920d-050cc5fd2d62">
 
+
 <img width="961" alt="Screenshot 2024-05-31 at 1 43 46 PM" src="https://github.com/shuddha2021/ScalaTaskManager/assets/81951239/9ad42c92-869e-4150-b2b1-e96a6d093c5e">
 
 
